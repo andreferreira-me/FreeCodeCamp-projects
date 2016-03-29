@@ -1,0 +1,17 @@
+.col-md-3 {
+	background-color: #000;
+	height: 150px;
+}
+
+.top, .middle{
+	border-bottom: 1px solid #FFF;
+}
+
+.first, .second{
+	border-right: 1px solid #FFF;
+}
+
+input{
+	background-color: #000;
+	border: 0px;
+}

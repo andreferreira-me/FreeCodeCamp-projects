@@ -1,0 +1,31 @@
+html,body{height:100%;}
+
+.container-fluid{
+	height:100%;
+}
+
+h1{
+	margin-top: 35px;
+	background-color: #FFFFFF;
+	padding: 20px;
+}
+
+.frame{
+	margin-top: 35px;
+	margin-bottom: 100px;
+	background-color: #FFFFFF;
+	padding: 60px;
+}
+
+article{
+	text-align: center;
+	font-size: 1.6em;
+}
+
+author{
+	font-weight: bold;
+}
+
+.buttons{
+	text-align: center;
+}

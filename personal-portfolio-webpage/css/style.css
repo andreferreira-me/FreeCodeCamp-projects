@@ -1,0 +1,43 @@
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+body {
+	padding-top: 50px;
+}
+
+header {
+	background-image: url('http://andreferreira.me/img/page-bg.png');
+	background-repeat: repeat;
+	padding-top: 50px;
+}
+
+p {
+	font-size: 1.1em;
+}
+
+.section{
+	padding-top: 50px;
+}
+
+.project{
+	text-align: center;
+}
+
+.fa-stack > .fa-circle{
+	color: #404040;
+}
+
+.tooltip > .tooltip-inner {
+	width: 67px;
+}
+
+#subtitle {
+	font-size: 1.6em;
+}
+
+#header{
+	color: #FFF;
+}
+
